@@ -55,59 +55,28 @@ Break into a Security Operations Center (SOC) or cybersecurity analyst role wher
 
 ## 🧪 Cybersecurity Projects
 
-### 1. Security Event Investigation Lab (Blue Team)
+You can find my hands-on cybersecurity work in this repository:
 
-**Objective:** Investigate suspicious authentication activity in a lab environment using logs and a SIEM-style workflow.
+- 🔗 **[Cybersecurity Projects](https://github.com/penumbraops-oss/cybersecurity-projects)**  
 
-**Highlights:**
+Projects include:
 
-- Parsed authentication and system logs to identify unusual login patterns  
-- Correlated events across multiple sources (e.g., endpoint + server logs)  
-- Documented findings in an incident report with timeline, impact, and recommended actions  
+- **Log Analysis & Security Event Investigation** – analyzing authentication and system logs, building incident timelines, and writing recommendations.  
+- **Vulnerability Assessment & System Hardening** – scanning lab systems, identifying misconfigurations, and proposing remediation.  
+- **Python Log Parser** – a small script to flag suspicious events from log files and summarize findings.  
+- **SOC Home Lab (In Progress)** – documenting a multi-VM home lab for practicing blue-team workflows.
 
-**Skills:** Log analysis, incident lifecycle, SIEM workflows, report writing  
-
----
-
-### 2. Vulnerability Assessment & Hardening (Lab Environment)
-
-**Objective:** Assess a small Windows/Linux lab environment for misconfigurations and vulnerabilities, then propose remediation steps.
-
-**Highlights:**
-
-- Identified missing patches, weak configurations, and unnecessary services  
-- Prioritized findings using risk-based thinking (likelihood and impact)  
-- Recommended hardening steps aligned with security best practices  
-
-**Skills:** Vulnerability assessment, system hardening, risk analysis, documentation  
+Each project folder contains its own README with objectives, environment, steps taken, and skills demonstrated.
 
 ---
 
-### 3. Python Log Parser for Suspicious Activity
+## 📚 Current Focus
 
-**Objective:** Build a simple Python script to extract and flag suspicious events from log files.
+Right now I’m:
 
-**Highlights:**
-
-- Wrote a script to search logs for failed logins, privilege escalations, or access from unusual IP ranges  
-- Exported findings into a human-readable summary for escalation  
-- Used this as a foundation for future automation projects  
-
-**Skills:** Python, log parsing, basic automation, documentation  
-
----
-
-### 4. Digital Content Integrity & QA in a Remote Learning Environment
-
-**Objective:** Ensure the integrity, clarity, and compliance of student-submitted digital assignments for a STEM/technology program.
-
-**Highlights:**
-
-- Reviewed and quality-checked audio, video, and document submissions  
-- Identified corrupted or non-compliant files and guided students in correcting issues  
-- Maintained consistency with detailed project instructions and grading rubrics  
-
-**Skills:** Attention to detail, digital forensics mindset, communication, remote collaboration  
+- Deepening my experience with SIEM (QRadar) and EDR (SentinelOne) investigations  
+- Practicing phishing / email security analysis with Proofpoint and header review  
+- Expanding my SOC home lab and adding more investigation write-ups and scripts 
 
 ---
 
@@ -129,7 +98,19 @@ This repository will grow over time with:
 ---
 
 ## 🔗 Connect with Me
-<a href="https://www.linkedin.com/in/bjballard0013/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-- Location: San Antonio, TX (open to remote and hybrid roles)  
 
-If you’d like to collaborate on blue-team, SOC, or training-focused security projects, feel free to reach out.
+- Location: San Antonio, TX
+
+I’m open to remote and hybrid roles:
+
+- Entry-level / junior SOC and cybersecurity analyst roles  
+- Blue-team / defensive security projects and collaborations  
+- Mentorship and feedback on my projects and learning path 
+
+<div>
+   <a href="https://www.linkedin.com/in/bjballard0013/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</div>
+If you’d like to see how I think through investigations or want to chat about opportunities, feel free to reach out.
