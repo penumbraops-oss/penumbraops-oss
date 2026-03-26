@@ -109,8 +109,8 @@ I’m open to remote and hybrid roles:
 
 <div>
    <a href="https://www.linkedin.com/in/bjballard0013/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
+   <a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 If you’d like to see how I think through investigations or want to chat about opportunities, feel free to reach out.
