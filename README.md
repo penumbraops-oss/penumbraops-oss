@@ -22,29 +22,34 @@ Break into a Security Operations Center (SOC) or cybersecurity analyst role wher
 
 ## 🧰 Skills & Tools
 
-**Security & IT**
+**Security Operations**
 
-- Threat detection, incident triage, incident documentation  
-- Log analysis and monitoring workflows (SIEM-style investigations)  
-- Basic vulnerability assessment and remediation recommendations  
-- Windows, Linux, macOS administration and troubleshooting  
-- Networking fundamentals (TCP/IP, ports, protocols, DNS, VPN concepts)
+- Log analysis, alert triage, and incident documentation  
+- Phishing and email security investigations  
+- Endpoint Detection & Response (EDR) investigations  
+- Vulnerability assessment and basic system hardening  
 
-**Tools & Technologies**
+**Tools & Platforms**
 
-- Linux command line, PowerShell / Windows utilities  
-- SIEM workflows (Chronicle / Splunk-style labs), log parsing  
-- Wireshark / packet capture concepts  
-- Remote desktop and ticketing / case management tools  
-- Python (automation / parsing), SQL (querying data), HTML/CSS/JavaScript basics  
-- Microsoft Office, Adobe Creative Suite (for documentation and visuals)
+- SIEM: IBM QRadar (use cases, log enrichment, investigations)  
+- EDR: SentinelOne  
+- Email Security: Proofpoint, manual header analysis  
+- Vulnerability / Web App Security: Tenable.io, Nessus Essentials, Acunetix, OWASP Top 10  
+- Network & Host Security: Fortinet FortiGate (NGFW/VPN), DNS security, web proxies, IPS, application security  
+- Threat Intel & Analysis: VirusTotal, AnyRun, MX Toolbox, OSINT tools  
+- Ticketing & SOC Workflow: Jira, TheHive (ticket templates, scoring, SOC shifts)
+
+**Systems & Scripting**
+
+- Operating Systems: Windows, Linux, macOS  
+- Linux CLI, basic Windows administration  
+- Python (automation / log parsing), SQL (querying data), HTML/CSS/JavaScript basics
 
 **Soft Skills**
 
-- Clear written reports and incident summaries  
-- Classroom and remote instruction, curriculum design, mentoring  
-- High-pressure decision-making (U.S. Marine Corps NCO)  
-- Detail-oriented review of digital content and multimedia
+- Classroom and remote instruction, mentoring, and curriculum design  
+- Clear written communication (incident summaries, investigations, documentation)  
+- High-pressure decision-making and teamwork from USMC experience 
 
 ---
 
