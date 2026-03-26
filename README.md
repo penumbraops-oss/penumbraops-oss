@@ -125,7 +125,6 @@ This repository will grow over time with:
 
 ## 🔗 Connect with Me
 <a href="https://www.linkedin.com/in/bjballard0013/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-- LinkedIn: [Brandon Ballard](https://www.linkedin.com/in/brandon-ballard-a939a7177)  
 - Location: San Antonio, TX (open to remote and hybrid roles)  
 
 If you’d like to collaborate on blue-team, SOC, or training-focused security projects, feel free to reach out.
